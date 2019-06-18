@@ -1,3 +1,3 @@
 <?php
-require_once('TutorialExamplePlugin.inc.php');
-return new TutorialExamplePlugin();
+require_once('ompChapterExtensionsPlugin.inc.php');
+return new ompChapterExtensionsPlugin();
